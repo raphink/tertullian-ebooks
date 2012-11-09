@@ -1,0 +1,10 @@
+span.chapterno {
+   display: block;
+   font-size: x-large;
+   width: 0%;
+   margin: 0 auto;
+}
+
+img {
+  display: none;
+}
